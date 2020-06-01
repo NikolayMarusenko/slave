@@ -20,7 +20,7 @@ entries:
     type: application
     urls:
     - https://github.com/NikolayMarusenko/slave/releases/download/0.1.0/my-app-0.1.0.tgz
-    version: 0.1.0
+    version: 0.5.0
   my-app2:
   - apiVersion: v2
     appVersion: 1.16.0
