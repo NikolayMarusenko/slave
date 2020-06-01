@@ -6,7 +6,7 @@ entries:
     created: "2020-06-01T09:47:24.7608623+03:00"
     description: A Helm chart for Kubernetes
     digest: e5af2ed4861dee1d0825df35919491c87a1d2dfa03d9b5d790475f829c4a38b8
-    name: my-app
+    name: my-app2
     type: application
     urls:
     - https://github.com/NikolayMarusenko/slave/releases/download/0.2.0/my-app-0.2.0.tgz
