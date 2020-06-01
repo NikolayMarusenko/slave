@@ -3,6 +3,16 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2020-06-01T09:47:24.7608623+03:00"
+    description: A Helm chart for Kubernetes
+    digest: e5af2ed4861dee1d0825df35919491c87a1d2dfa03d9b5d790475f829c4a38b8
+    name: my-app
+    type: application
+    urls:
+    - https://github.com/NikolayMarusenko/slave/releases/download/0.2.0/my-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2020-06-01T09:36:27.8538306+03:00"
     description: A Helm chart for Kubernetes
     digest: 300cc57d19cc08a5ae3e655954f65742d6d57764df1fb7371fe058d4f6f88d6e
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/NikolayMarusenko/slave/releases/download/0.1.0/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-06-01T09:36:27.8528445+03:00"
+generated: "2020-06-01T09:47:24.7608623+03:00"
